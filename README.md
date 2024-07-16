@@ -1,4 +1,4 @@
-# Project Title: Automation of Web From using JUnit  
+# Project Title: Automation of Web Form using JUnit  
 
 ### Project Summary: A web form having fields such as Name (Mandatory), Number, Today's date, Email, Tell us a bit about yourself, Upload a document and a checkbox (Mandatory) has been automated using JUnit, a framework of Selenium. Later, the submission has been asserted by matching the message "Thank you for your submission!" in the result page.  
 
